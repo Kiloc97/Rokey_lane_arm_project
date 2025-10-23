@@ -1,4 +1,4 @@
-# 📌 TurtleBot3 Manipulator & Line-tracing Project
+# 📌 Rokey Manipulator & Line-tracing Project
 
 > **K-Digital Training 프로젝트**  
 > 터틀봇3 와플(Waffle)에 매니퓰레이터를 부착하여 라인트레이싱, ArUco 마커 인식, 좌표 변환, MoveIt 기반 조작, Depth 추정 등 다양한 기능을 통합한 프로젝트입니다.
